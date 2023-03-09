@@ -1,0 +1,16 @@
+header nav ul {
+    text-align:  center;
+}
+header nav li {
+    list-style: none;
+    display: inline;
+    text-align: center;
+    width: 100px;
+    padding: 10px;
+}
+
+header nav li a {
+    text-decoration: none;
+    text-shadow:1px 0 2px black;
+    color: white;
+}
